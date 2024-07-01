@@ -7,3 +7,8 @@ This project is about to design a very simple LED driver circuit for medium powe
 - Revision 1 uses 3528 Footprint only
 
 ![LED warm white](Images/led-ebay.PNG)
+
+# todo
+- add spice results to readme
+- add equation for R-shunt to readme
+- add images of application in real world and test results
