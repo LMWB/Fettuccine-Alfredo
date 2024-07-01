@@ -1,0 +1,25 @@
+* Z:\home\lukas\work\KiCad8\lmwb_LED_CC_Driver\LED_CC_Driver\Spice\cc_driver_led.asc
+V1 Vcc 0 24
+D1 Vcc N001 NSCW100
+D2 N002 C NSCW100
+Q1 C B E 0 2N3904
+R2 Vcc B 10k
+D3 B N005 1N4148
+D4 N005 N006 1N4148
+R3 E 0 30
+D5 N006 0 1N4148
+D6 N001 N002 NSCW100
+D7 Vcc N003 NSCW100
+D8 N004 C NSCW100
+D9 N003 N004 NSCW100
+.model D D
+.lib C:\users\lukas\AppData\Local\LTspice\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\users\lukas\AppData\Local\LTspice\lib\cmp\standard.bjt
+* StromSenke
+* .tran 100m
+.dc V1 24 5 1
+* Nicht lineare Last
+.backanno
+.end

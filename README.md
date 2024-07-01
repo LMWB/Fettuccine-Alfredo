@@ -5,3 +5,5 @@ This project is about to design a very simple LED driver circuit for medium powe
 
 - Revision 0 uses PLCC 2835 LED Footprint and 3528 (alternative)
 - Revision 1 uses 3528 Footprint only
+
+![LED warm white](Images/led-ebay.png)
