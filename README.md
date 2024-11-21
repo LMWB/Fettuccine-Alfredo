@@ -9,9 +9,9 @@ This project is about to design a very simple LED driver circuit for medium powe
 ![LED warm white](Images/led-ebay.PNG)
 
 # Real World Examples
-![Garage Light](Images/IMG_752.jpg)
-![Garage Light](Images/IMG_754.jpg)
-![Garage Light](Images/IMG_756.jpg)
+![Garage Light](Images/IMG_7542.jpg)  
+![Garage Light](Images/IMG_7544.jpg)  
+![Garage Light](Images/IMG_7546.jpg)  
 
 # todo
 - add spice results to readme
