@@ -3,6 +3,22 @@ very basic and cheap constant current circuit for medium power LED's
 
 This project is about to design a very simple LED driver circuit for medium power LED's. I'd like to play around with different LED color temperatures and shapes. 
 
+# Circuit and Simulations
+
+![circuit](./Images/SpiceResults3.png)
+![circuit](./Images/SpiceResults1.png)
+![circuit](./Images/SpiceResults2.png)
+
+# Adjusting Current
+```math
+I_{LED} \approx I{R_S} = \frac{U_{D} - U_{BE}}{R_S}
+```
+```math
+I_{LED} = \frac{1.8 V - 0.7 V}{100 \Omega} = 11mA
+```
+
+
+
 ## Revision 0 uses PLCC 2835 LED Footprint and 3528 (alternative)
 ![rev 0.1](./Images/CC_LED_Driver_rev_01.png)
 ## Revision 1 uses 3528 Footprint only
