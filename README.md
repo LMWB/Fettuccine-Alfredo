@@ -13,6 +13,7 @@ This project is about to design a very simple LED driver circuit for medium powe
 ```math
 I_{LED} \approx I_{R_S} = \frac{U_{D} - U_{BE}}{R_S}  
 ```
+
 ```math
 I_{LED} = \frac{1.8 V - 0.7 V}{100 \Omega} = 11mA  
 ```
