@@ -26,6 +26,7 @@ I_{LED} = \frac{1.8 V - 0.7 V}{100 \Omega} = 11mA
 
 # Real World Examples
 ## Street Light
+## Lamp
 I used the [timer clock project](https://github.com/LMWB/Cannelloni-al-Forno) and three of this LED boards to create a illumination of my courtyard.  
 ![Garage Light](Images/IMG_7542.jpg)  
 ![Garage Light](Images/IMG_7544.jpg)  
@@ -36,6 +37,9 @@ I also used the [timer clock project](https://github.com/LMWB/Cannelloni-al-Forn
 ![Star Light](Images/star2.jpg)  
 ![Star Light](Images/star3.jpg)  
 ![Star Light](Images/star1.jpg)  
+
+## Star
+
 
 # Sources
 ## Material
