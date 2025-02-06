@@ -25,10 +25,17 @@ I_{LED} = \frac{1.8 V - 0.7 V}{100 \Omega} = 11mA
 ![rev 0.1](./Images/CC_LED_Driver_rev_10.png)
 
 # Real World Examples
+## Street Light
 I used the [timer clock project](https://github.com/LMWB/Cannelloni-al-Forno) and three of this LED boards to create a illumination of my courtyard.  
 ![Garage Light](Images/IMG_7542.jpg)  
 ![Garage Light](Images/IMG_7544.jpg)  
 ![Garage Light](Images/IMG_7546.jpg)  
+
+## X-Mas Star
+I also used the [timer clock project](https://github.com/LMWB/Cannelloni-al-Forno) and three of this LED boards in a three-dimensional setup to create a kind of LED light build to use in a outdoor christmas decoration.  
+![Star Light](Images/star2.jpg)  
+![Star Light](Images/star3.jpg)  
+![Star Light](Images/star1.jpg)  
 
 # Sources
 ## Material
