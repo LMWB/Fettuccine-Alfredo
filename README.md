@@ -38,9 +38,6 @@ I also used the [timer clock project](https://github.com/LMWB/Cannelloni-al-Forn
 ![Star Light](Images/star3.jpg)  
 ![Star Light](Images/star1.jpg)  
 
-## Star
-
-
 # Sources
 ## Material
 high performance power LED found on ebay  
